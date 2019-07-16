@@ -8,9 +8,3 @@ public class EasyUITreeNode implements Serializable {
     private String state;
 
  }
- public class EasyUITreeNode implements Serializable {
-    private long id;
-    private String text;
-    private String state;
-
- }
