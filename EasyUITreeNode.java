@@ -14,4 +14,4 @@ public class EasyUITreeNode implements Serializable {
     private String state;
 
  }
- hello
+ hello world
